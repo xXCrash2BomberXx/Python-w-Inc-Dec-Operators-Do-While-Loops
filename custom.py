@@ -1,6 +1,5 @@
 from re import finditer
 
-
 def parse(string, e=True):
     while True:
         try:
